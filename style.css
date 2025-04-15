@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+.heading{
+    font-size: 3rem;
+    padding: 2rem;
+}
+.track{
+    font-size: 1.25rem;
+}
+.align-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin: 0.25rem;
+    width: 5rem;
+    height: 5rem;
+    color: brown;
+    background-color: cadetblue;
+    border: 0.35rem solid grey;
+    font-size: 2rem;
+    border-radius: 3rem;
+}
+
+.reset{
+    margin-top: 4rem;
+    height: 2.5rem;
+    width: 6rem;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: sienna;
+    border: 0.2rem solid grey;
+    border-radius: 2rem;
+}
